@@ -85,5 +85,5 @@ print(x)
 ## Output:
 ![Screenshot from 2022-09-24 13-56-21-1](https://user-images.githubusercontent.com/113497680/192088423-7036ad07-00dc-40e0-9af2-ad84a8f32448.png)
 
-##Result:
+## Result:
 Thus the program to solve the matrix using LU Decomposition is written and verified using python programming.
