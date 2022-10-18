@@ -39,9 +39,6 @@ print(U)
 ##  OUTPUT
 ![Screenshot from 2022-09-24 13-35-38](https://user-images.githubusercontent.com/113497680/192087625-46068974-7953-4d4a-b93e-0f99cb106113.png)
 
-## Result:
-Thus the program to find the LU decomposition of a matrix is written and verfied using python programming.
-
 
 ## Program
 (ii) To find the LU Decomposition of a matrix
