@@ -54,7 +54,7 @@ x=lu_solve((lu,piv),B)
 print(x)
 
 ```
-##  Output11:
+##  Output1:
 ![Screenshot from 2022-09-24 13-35-38](https://user-images.githubusercontent.com/113497680/192087625-46068974-7953-4d4a-b93e-0f99cb106113.png)
 
 ## Output2:
