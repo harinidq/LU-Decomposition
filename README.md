@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 6.End the program.
 
-## Program:
+## Program1:
 (i) To find the L and U matrix
 ```
 Program to find L and U matrix using LU decomposition.
@@ -36,11 +36,8 @@ print(L)
 print(U)
 
 ```
-##  OUTPUT
-![Screenshot from 2022-09-24 13-35-38](https://user-images.githubusercontent.com/113497680/192087625-46068974-7953-4d4a-b93e-0f99cb106113.png)
 
-
-## Program
+## Program2
 (ii) To find the LU Decomposition of a matrix
 ```
 Program to solve a matrix using LU decomposition.
@@ -57,8 +54,10 @@ x=lu_solve((lu,piv),B)
 print(x)
 
 ```
+##  Output11:
+![Screenshot from 2022-09-24 13-35-38](https://user-images.githubusercontent.com/113497680/192087625-46068974-7953-4d4a-b93e-0f99cb106113.png)
 
-## Output:
+## Output2:
 ![Screenshot from 2022-09-24 13-56-21-1](https://user-images.githubusercontent.com/113497680/192088423-7036ad07-00dc-40e0-9af2-ad84a8f32448.png)
 
 ## Result:
