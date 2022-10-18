@@ -42,27 +42,6 @@ print(U)
 ## Result:
 Thus the program to find the LU decomposition of a matrix is written and verfied using python programming.
 
-## AIM:
-To write a program to solve a matrix using LU Decomposition.
-
-## Equipments Required:
-1.Hardware-PCs
-2.Anaconda-Python 3.7 Installation / Moodle-Code Runner
-
-## Algorithm
-1.Import the numpy module to use the built-in functions for calculation.
-
-2.From scipy.linalg module import lu_factor and lu_solve functions for calculations.
-
-3.Get inputs from the user and assign the values in A and B in np.array().
-
-4.Using the lu_factor(),we can find the LU and pivot.
-
-5.Substitue the value in a variable obtained from lu_solve().
-
-6.Print the variable.
-
-7.End the program.
 
 ## Program
 (ii) To find the LU Decomposition of a matrix
